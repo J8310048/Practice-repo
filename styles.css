@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+div .screen {
+    border: 1px black solid;
+    width: 30%;
+    height: 5vh;
+}
+
+div .buttons {
+    border: 1px black solid;
+    width: 30%;
+    height: 30vh;
+    display: grid;
+    grid-template-columns: ;
+    grid-template-rows: ;
+}
+
+div .numbers {
+    border: 1px black solid;
+    width: 13%;
+    height: 3vh;
+}
